@@ -1,0 +1,16 @@
+#container{
+             background-color: rgba(189, 26, 26, 0.733);
+             height: 200px;
+             display: ;
+             flex-wrap: nowrap;
+          }
+
+
+.item{
+       background-color: black;
+       color: rgb(255, 255, 255);
+       padding: 20px;
+       margin: 5px;
+       
+
+     }
